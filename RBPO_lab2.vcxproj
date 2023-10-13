@@ -131,11 +131,11 @@
     <ClCompile Include="main.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
-    <ClCompile Include="student.1bib1063.Lab2.Variant24.Task1.ixx" />
-    <ClCompile Include="student1.1bib1063.Lab2.Variant24.Task2.ixx" />
-    <ClCompile Include="student2.1bib1063.Lab2.Variant24.Task3.ixx" />
-    <ClCompile Include="student3.1bib1063.Lab2.Variant24.Task4.ixx" />
-    <ClCompile Include="student4.1bib1063.Lab2.Variant24.Task5.ixx" />
+    <ClCompile Include="student.1bib21063.Lab2.Variant24.Task1.ixx" />
+    <ClCompile Include="student1.1bib21063.Lab2.Variant24.Task2.ixx" />
+    <ClCompile Include="student2.1bib21063.Lab2.Variant24.Task3.ixx" />
+    <ClCompile Include="student3.1bib21063.Lab2.Variant24.Task4.ixx" />
+    <ClCompile Include="student4.1bib21063.Lab2.Variant24.Task5.ixx" />
     <ClCompile Include="Task4_f1.ixx" />
     <ClCompile Include="Task2.cpp" />
     <ClCompile Include="Task3.a.cpp" />

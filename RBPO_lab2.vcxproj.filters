@@ -18,16 +18,16 @@
     <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="student.1bib1063.Lab2.Variant24.Task1.ixx">
+    <ClCompile Include="student.1bib21063.Lab2.Variant24.Task1.ixx">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="student1.1bib1063.Lab2.Variant24.Task2.ixx">
+    <ClCompile Include="student1.1bib21063.Lab2.Variant24.Task2.ixx">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="Task2.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="student2.1bib1063.Lab2.Variant24.Task3.ixx">
+    <ClCompile Include="student2.1bib21063.Lab2.Variant24.Task3.ixx">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="Task3.f1.cpp">
@@ -45,7 +45,7 @@
     <ClCompile Include="Task3.a.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="student3.1bib1063.Lab2.Variant24.Task4.ixx">
+    <ClCompile Include="student3.1bib21063.Lab2.Variant24.Task4.ixx">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="Task4_f1.ixx">
@@ -63,7 +63,7 @@
     <ClCompile Include="Task4_a.ixx">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="student4.1bib1063.Lab2.Variant24.Task5.ixx">
+    <ClCompile Include="student4.1bib21063.Lab2.Variant24.Task5.ixx">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
